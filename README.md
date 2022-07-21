@@ -1,29 +1,18 @@
-# vue-project
+# Getting Started
 
-This template should help get you started developing with Vue 3 in Vite.
+This is just a Test-Project for Vue.js
+The Code is not clean and there is much to improve
 
-## Recommended IDE Setup
+# Data
+The data is fetched from [Countries-API](https://restcountries.eu/rest/v2/all)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+# Start
+To start the project, run the following command:
 
-## Customize configuration
+```npm run dev```
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+# Positive
+Easy to style, cool params like v-if and v-for similar to React-Components
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+# Negative
+Need to list all Components in file, a lot of different methods to use
