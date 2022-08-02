@@ -56,5 +56,6 @@ button {
   text-align: left;
   font-size: 15px;
   line-height: 1.6;
+  border: none;
 }
 </style>

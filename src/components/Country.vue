@@ -1,13 +1,11 @@
 <template>
   <div class="box">
     <div class="image">
-      <img :src="country.flags.png" alt="flag"/>
+      <img :src="country.flags.png" alt="flag" loading="lazy"/>
     </div>
     <div class="content">
       <table>
         <tbody>
-
-
         <tr>
           <td class="subject">Land:</td>
           <td>{{ country.name.common }}</td>
