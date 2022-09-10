@@ -21,6 +21,6 @@ To start the project, run the following commands:
 - Hook-Names are not that clear
 
 # Usefull Packages for Vue.js
-- Vuetify
-- Vuex
-- Nuxt.js
+- Vuetify `styling`
+- Vuex `function provider`
+- Nuxt.js `SSR`
