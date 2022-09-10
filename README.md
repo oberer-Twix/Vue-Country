@@ -7,12 +7,20 @@ The Code is not clean and there is much to improve
 The data is fetched from [Countries-API](https://restcountries.eu/rest/v2/all)
 
 # Start
-To start the project, run the following command:
-
-```npm run dev```
+To start the project, run the following commands:
+- ```npm install``` or short: ```npm i```
+- ```npm run dev```
 
 # Positive
-Easy to style, cool params like v-if and v-for, similar to React-Components
+- Easy to style 
+- helpfull attriputes like v-if and v-for
+- Hooks are in a Skript-Tag
 
 # Negative
-Need to list all Components in file, a lot of different methods to use
+- Everything has to be listet in the Skript-Tag
+- Hook-Names are not that clear
+
+# Usefull Packages for Vue.js
+- Vuetify
+- Vuex
+- Nuxt.js
